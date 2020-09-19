@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0d99d9"
+    android:orientation="vertical"
+    android:padding="55dp"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50sp"
+        android:text="ABDI BARBER SHOP"
+        android:textColor="#fff"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/email_Et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50sp"
+        android:hint="Enter email"
+        android:inputType="text"
+        android:textColor="#fff" />
+
+    <EditText
+        android:id="@+id/password_Et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35sp"
+        android:hint="Enter password"
+        android:inputType="text"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/button_sign_in"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30sp"
+        android:background="#fff"
+        android:text="Sign In" />
+
+    <TextView
+        android:id="@+id/sign_up_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="19dp"
+        android:text="Don't have an account? Sign Up!"
+        android:textColor="#fff" />
+
+    <TextView
+        android:id="@+id/forgot_password_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="19dp"
+        android:text="Forgot password?"
+        android:textColor="#fff" />
+
+</LinearLayout>

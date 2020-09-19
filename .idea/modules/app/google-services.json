@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375193838247",
+    "firebase_url": "https://barber-shop-8ee37.firebaseio.com",
+    "project_id": "barber-shop-8ee37",
+    "storage_bucket": "barber-shop-8ee37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375193838247:android:ca7940e184fbb13cbc7182",
+        "android_client_info": {
+          "package_name": "abdi.barbershop.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375193838247-j91hkmomj1itqb8a20r57v77vlacm6d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "abdi.barbershop.com",
+            "certificate_hash": "cb0394342752e9057bf6beabf12fe7238b2e6817"
+          }
+        },
+        {
+          "client_id": "375193838247-j4b1q81bat9e7rtv7gp84o69arb825tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDRTFv4LHUaIBr5ZGg_Cz5my96QXvGrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375193838247-j4b1q81bat9e7rtv7gp84o69arb825tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

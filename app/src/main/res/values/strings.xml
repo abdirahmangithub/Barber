@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Barber Shop</string>
+
+    <string-array name="numbers">
+        <item>Haircut</item>
+        <item>Beard Trimming</item>
+        <item>Mustache</item>
+        <item>Massage</item>
+    </string-array>
+
+</resources>
